@@ -1,3 +1,3 @@
-# Primeiro Repositório GitHub
+# Repositório GitHub
 
-Repositório criado para curso de GitHub da Dio.
+Repositório criado para cursos da Dio.
